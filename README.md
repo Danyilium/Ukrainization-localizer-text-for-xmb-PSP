@@ -1,6 +1,6 @@
 # Ukrainization localizer text for XMB (PSP)
 
-вихідний текст для українізації інтерфейсу XMB на PlayStation Portable (PSP). 
+вихідний текст strings.txt для українізації інтерфейсу XMB на PlayStation Portable (PSP). 
 
 Проєкт працює на базі плагіна [Localizer](https://code.google.com/archive/p/localizer-plugin/) від поляків.
 
