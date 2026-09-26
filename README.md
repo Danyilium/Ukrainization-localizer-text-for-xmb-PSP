@@ -2,7 +2,7 @@
 
 вихідний текст strings.txt для українізації інтерфейсу XMB на PlayStation Portable (PSP). 
 
-Проєкт працює на базі плагіна [Localizer](https://code.google.com/archive/p/localizer-plugin/) від поляків.
+Проєкт працює на базі плаґіна [Localizer](https://code.google.com/archive/p/localizer-plugin/) від поляків.
 
 ## 🛠 Збірка
 
